@@ -16,4 +16,3 @@ function arg_amount(){
 }
 printfunction("a","b","c","adfadsf")
 alert("eyup!!!!!!!!")
-//printfunction() //doesnt do anything
